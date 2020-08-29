@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS494 Fall 2019
+title: CS474 Fall 2020
 subtitle: Office Hours
 use-site-title: true
 ---

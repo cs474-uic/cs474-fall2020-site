@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-subtitle: Subject to changes
+title: CS474 Fall 2020
+subtitle: Schedule - Subject to changes
 use-site-title: true
 ---
 <a name="top" /><br/>
@@ -12,6 +12,10 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 
 # Past weeks
 
+| Week |                                                        Tuesday                                                        |                                             Thursday                                             |      Assignments      | Book Chapters       |
+|-----:|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|---------------------|
+|    1 | **Aug 25** <br/> Lecture 0 <br/> *Introduction* | **Aug 27** <br/> Lecture 1 <br/> *Overview* | Assignment 0 Released | Chapter 1 |
+
 
 
 <a name="upcoming" /><br/>
@@ -19,7 +23,7 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 
 | Week |                                                        Tuesday                                                        |                                             Thursday                                             |      Assignments      | Book Chapters       |
 |-----:|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|---------------------|
-|    1 | **Aug 25** <br/> Lecture 0 <br/> *Introduction* | **Aug 27** <br/> Lecture 1 <br/> *Overview* | Assignment 0 Released | |
+|    2 | **Sep 1**  <br/> Lecture 2  <br/> *Names, Scopes, Bindings, Overloading*              | **Sep 3**  <br/> Lecture 3  <br/> *Value Types vs Reference Types*                | Assignment 0 Due | Chapter 3, Chapter 6.1.2, Chapter 8 |
 
 [top](#top)
 
@@ -29,7 +33,6 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 
 | Week |                                                                  Tuesday                                                                  |                                                        Thursday                                                         |              Assignments               | Book Chapters            |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|--------------------------|
-|    2 | **Sep 1**  <br/> Lecture 2  <br/> *Names, Scopes, Bindings, Overloading*              | **Sep 3**  <br/> Lecture 3  <br/> *Value Types vs Reference Types*                | Assignment 0 Due | |
 |    3 | **Sep 8**  <br/> Lecture 4  <br/> *ADT vs PDA*                                        | **Sep 10** <br/> Lecture 5  <br/> *Inheritance, Subtyping, Overriding*            | Assignment 1 Released      | |
 |    4 | **Sep 15** <br/> Lecture 6  <br/> *Multiple Inheritance, Traits*                      | **Sep 17** <br/> Lecture 7  <br/> *Typing, Casting, Constructors and Destructors* | Assignment 1 Due      | |
 |    5 | **Sep 22** <br/> Lecture 8  <br/> *Reflection*                                        | **Sep 24** <br/> Lecture 9  <br/> *Reflection*                                    | Assignment 2 Released | |

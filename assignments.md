@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS474 Fall 2019
+title: CS474 Fall 2020
 subtitle: Assignments
 use-site-title: true
 ---
