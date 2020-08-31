@@ -20,7 +20,13 @@ Get familiar with the process to work and submit your work
 
 # Assignment 1
 
-TBD
+Detect overloading and overriding in Java source code.
+
+[Download the specification here]({{site.baseurl}}/a1.pdf).
+
+**Released Mon 31 Aug 2020**
+
+**Due Sat 19 Sep 2020**
 
 # Assignment 2
 
