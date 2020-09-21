@@ -16,6 +16,8 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 |-----:|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|---------------------|
 |    1 | **Aug 25** <br/> Lecture 0 <br/> *Introduction*                                       | **Aug 27** <br/> Lecture 1 <br/> *Overview*                                       | Assignment 0 Released      | Chapter 1                           |
 |    2 | **Sep 1**  <br/> Lecture 2  <br/> *Names, Scopes, Bindings, Overloading*              | **Sep 3**  <br/> Lecture 3  <br/> *Value Types vs Reference Types*                | Assignment 0 Due           | Chapter 3, Chapter 6.1.2, Chapter 8 |
+|    3 | **Sep 8**  <br/> Lecture 4  <br/> *ADT vs PDA*                                        | **Sep 10** <br/> Lecture 5  <br/> *Modules, Subtyping, Overloading, Overriding*   | Assignment 1 Released      | William R. Cook. 2009. On understanding data abstraction, revisited <br/> Chapter 10                                    |
+|    4 | **Sep 15** <br/> Lecture 6  <br/> *Multiple Inheritance, Traits*                      | **Sep 17** <br/> Lecture 7  <br/> *Casting, Typing*                               | Assignment 1 Due      | Chapter 10 <br/> Java Lang Spec 4.3.2, 4.1.0.2, 9.1-9.5, 13.5.6|
 
 
 
@@ -24,7 +26,7 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 
 | Week |                                                        Tuesday                                                        |                                             Thursday                                             |      Assignments      | Book Chapters       |
 |-----:|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|---------------------|
-|    3 | **Sep 8**  <br/> Lecture 4  <br/> *ADT vs PDA*                                        | **Sep 10** <br/> Lecture 5  <br/> *Modules, Subtyping, Overloading, Overriding*   | Assignment 1 Released      | William R. Cook. 2009. On understanding data abstraction, revisited <br/> Chapter 10                                    |
+|    5 | **Sep 22** <br/> Lecture 8  <br/> *Reflection*                                        | **Sep 24** <br/> Lecture 9  <br/> *Error Handling*                                    | Assignment 2 Released | Chapter 7.3, Chapter 16.3  |
 
 [top](#top)
 
@@ -34,9 +36,7 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 
 | Week |                                                                  Tuesday                                                                  |                                                        Thursday                                                         |              Assignments               | Book Chapters            |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|--------------------------|
-|    4 | **Sep 15** <br/> Lecture 6  <br/> *Multiple Inheritance, Traits*                      | **Sep 17** <br/> Lecture 7  <br/> *Typing, Casting, Constructors and Destructors* | Assignment 1 Due      | |
-|    5 | **Sep 22** <br/> Lecture 8  <br/> *Reflection*                                        | **Sep 24** <br/> Lecture 9  <br/> *Reflection*                                    | Assignment 2 Released | |
-|    6 | **Sep 29** <br/> Lecture 10 <br/> *Generics*                                          | **Oct 1**  <br/> Lecture 11 <br/> *Error Handling*                                | Assignment 2 Due      | |
+|    6 | **Sep 29** <br/> Lecture 10 <br/> *Generics*                                          | **Oct 1**  <br/> Lecture 11 <br/> *Constructors, Substitutivity*                                | Assignment 2 Due      | |
 |    7 | **Oct 6**  <br/> Lecture 12 <br/> *Functional Programming*                            | **Oct 8**  <br/> Lecture 13 <br/> *Review for the Midterm*                        |                       | |
 |    8 | **Oct 13** <br/> **Midterm**                                                          | **Oct 15** <br/> Lecture 14 <br/> *Functional Programming*                        | Assignment 3 Released | |
 |    9 | **Oct 20** <br/> Lecture 15 <br/> *Midterm Solution*                                  | **Oct 22** <br/> Lecture 16 <br/> *Interpreter 1*                                 | Assignment 3 Due      | |

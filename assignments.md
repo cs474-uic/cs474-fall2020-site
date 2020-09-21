@@ -30,7 +30,13 @@ Detect overloading and overriding in Java source code.
 
 # Assignment 2
 
-TBD
+Invoke methods using the Java reflection.
+
+[Download the specification here]({{site.baseurl}}/a2.pdf).
+
+**Released Mon 21 Sep 2020**
+
+**Due Sat 03 Oct 2020**
 
 # Assignment 3
 
