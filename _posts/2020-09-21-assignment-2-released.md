@@ -3,7 +3,7 @@ layout: post
 title: Assignment 2 Released
 ---
 
-I have just released Assignment 1.  This post explains how to start working on it.
+I have just released Assignment 2.  This post explains how to start working on it.
 
 You can read the specification [in the assignments section]({{site.baseurl}}/assignments).
 
