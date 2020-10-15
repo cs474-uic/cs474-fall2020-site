@@ -40,7 +40,13 @@ Invoke methods using the Java reflection.
 
 # Assignment 3
 
-TBD
+Use the Java stream API
+
+[Download the specification here]({{site.baseurl}}/a3.pdf).
+
+**Released Tue 13 Oct 2020**
+
+**Due Sat 24 Oct 2020**
 
 # Assignment 4
 
