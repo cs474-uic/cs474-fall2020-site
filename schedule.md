@@ -26,14 +26,16 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 |    9 | **Oct 20** <br/> Lecture 15 <br/> *Midterm Solution and Functional Programming*       | **Oct 22** <br/> Lecture 16 <br/> *Interpreter 1*                                 | Assignment 3 Due      | Chapter 11 <br/> John C. Reynolds, Definitional Interpreters for Higher-Order Programming Languages. |
 |   10 | **Oct 27** <br/> Lecture 17 <br/> *Interpreter 2*                                     | **Oct 29** <br/> Lecture 18 <br/> *Interpreter 3*                                 | Assignment 4 Released | John C. Reynolds, Definitional Interpreters for Higher-Order Programming Languages. |
 |   11 | **Nov 3**  <br/> <span style="color:red">Voting day, no class</span>                  | **Nov 5**  <br/> Lecture 19 <br/> *Interpreter 4*                                 | Assignment 4 Due      | John C. Reynolds, Definitional Interpreters for Higher-Order Programming Languages. |
-|   12 | **Nov 10** <br/> Lecture 20 <br/> *Continuations*                                | **Nov 12** <br/> Lecture 22 <br/> *Coroutines and Bytecode Execution*                                 | Assignments 5 and 6 Released | Chapter 6.2.2, 9.4, 9.5, 16.1.1 <br/> [JVM Bytecodes](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-6.html) |
+|   12 | **Nov 10** <br/> Lecture 20 <br/> *Continuations*                                | **Nov 12** <br/> Lecture 21 <br/> *Coroutines and Bytecode Execution*                                 | Assignments 5 and 6 Released | Chapter 6.2.2, 9.4, 9.5, 16.1.1 <br/> [JVM Bytecodes](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-6.html) |
+|   13 | **Nov 17** <br/> Lecture 22 <br/> *Bytecode*                                     | **Nov 19** <br/> Lecture 23 <br/> *Just-In-Time (JIT) compiling*                            | Assignment 5 Due      | Chapter 8.5.3, 16, 17 |
+|   14 | **Nov 24** <br/> Lecture 25 <br/> *Garbage Collection*                                | **Nov 26** <br/> <span style="color:red">Thanksgiving, no class</span>            | Assignment 6 Early Submission Bonus | Chapter 8.5.3, 17 |
+|   15 | **Dec 1**  <br/> Lecture 26 <br/> *Review for the Final*                              | **Dec 3**  <br/> Lecture 27 <br/> *Conclusion and Research Topics*                | Assignment 6 Due      | |
 
 
 <a name="upcoming" /><br/>
 # Upcoming week
 
 | Week |                                                        Tuesday                                                        |                                             Thursday                                             |      Assignments      | Book Chapters       |
-|   13 | **Nov 17** <br/> Lecture 23 <br/> *JIT Compiling*                                     | **Nov 19** <br/> Lecture 24 <br/> *Garbage Collection*                            | Assignment 5 Due      | |
 
 [top](#top)
 
@@ -42,9 +44,6 @@ There's also a [Google calendar](#calendar) you can check and/or subscribe to wi
 **Tentative**
 
 | Week |                                                                  Tuesday                                                                  |                                                        Thursday                                                         |              Assignments               | Book Chapters            |
-|-----:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------:|--------------------------|
-|   14 | **Nov 24** <br/> Lecture 25 <br/> *Garbage Collection*                                | **Nov 26** <br/> <span style="color:red">Thanksgiving, no class</span>            | Assignment 6 Early Submission Bonus | |
-|   15 | **Dec 1**  <br/> Lecture 26 <br/> *Review for the Final*                              | **Dec 3**  <br/> Lecture 27 <br/> *Conclusion and Research Topics*                | Assignment 6 Due      | |
 
 
 [top](#top)
